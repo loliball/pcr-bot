@@ -9,6 +9,7 @@
 qq.id = 机器人qq  
 qq.pwd = 机器人密码  
 qq.owner = 管理者qq  
+qq.group = 群组  
 BF_Client_Data = bigfun数据  
 输入如下启动命令  
 java -Dfile.encoding=UTF-8 -jar mirai-bot.main.jar
