@@ -1,6 +1,6 @@
 # PCR自动报刀机器人
 
-直接使用mirai-core进行开发，后期会考虑改成基于mirai-console开发的插件
+本项目直接使用mirai-core进行开发，未来会改成基于mirai-console开发的插件
 
 # 使用
 
