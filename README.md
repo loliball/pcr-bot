@@ -1,8 +1,9 @@
+
+# 本项目已停止维护，请使用新项目https://github.com/WhichWho/PCRBot
+
 # PCR自动报刀机器人
 
 本项目直接使用mirai-core进行开发，未来会改成基于mirai-console开发的插件
-
-本项目已停止维护，请移步[https://github.com/WhichWho/PCRBot]
 
 # 使用
 
