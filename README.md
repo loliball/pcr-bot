@@ -2,6 +2,8 @@
 
 本项目直接使用mirai-core进行开发，未来会改成基于mirai-console开发的插件
 
+本项目已停止维护，请移步[https://github.com/WhichWho/PCRBot]
+
 # 使用
 
 下载右侧releases中的最新版本并解压  
